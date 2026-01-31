@@ -17,8 +17,6 @@
         <file>res/LevelIcon.png</file>
         <file>res/LevelWinSound.wav</file>
         <file>res/MenuSceneStartButton.png</file>
-        <file>res/OtherSceneBg.png</file>
-        <file>res/PlayLevelSceneBg.png</file>
         <file>res/TapButtonSound.wav</file>
         <file>res/Title.png</file>
         <file>res/Redo_Active.png</file>

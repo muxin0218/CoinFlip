@@ -51,7 +51,7 @@ MainScene::~MainScene()
 void MainScene::paintEvent(QPaintEvent*){
     QPainter painter(this);
     QPixmap pix;
-    pix.load(":/res/PlayLevelSceneBg.png");
+    pix.load(":/res/MenuSceneBg.png");
     painter.drawPixmap(0,0,this->width(),this->height(),pix);
     pix.load(":/res/Title.png");
     pix=pix.scaled(pix.width()*0.5,pix.height()*0.5);
